@@ -12,7 +12,7 @@ I can't wait to explore these courses, take on challenges, and share my progress
 
 | Challenges | Difficulty |                                                Tags                                                |
 |:-------------:|:----------:|:--------------------------------------------------------------------------------------------------:|
-| [55H-Access](./Certified SOC Analyst/Challenges/55H Access - Splunk) | Easy | Splunk, Forensic, SSH |
+| [55H-Access](./Challenges/55H Access - Splunk) | Easy | Splunk, Forensic, SSH |
 |  |            |                                                                                                    |
 |     [CVE-Number](./Soc-analyst/CVE-Number/Readme.md)     |    Basic    |                                       EternalBlue, Searchsploit                                       |
 |   [Backdoor](./Soc-analyst/Backdoor/Readme.md)   |   Medium   |                                            Tshark, Wireshark, vsFTPD                                            |
