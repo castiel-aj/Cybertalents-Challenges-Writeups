@@ -20,13 +20,7 @@
 | [Remote Hacker](https://github.com/castiel-aj/Cybertalents-Challenges-Writeups/blob/master/Certified%20SOC%20Analyst/Challenges/Remote%20Hacker%20-%20Windows%20Logs/Remote%20Hacker%20-%20Writeup.md) | Medium | Forensic, Logs Analysis, Windows logs |
 | [SIEM Port](https://github.com/castiel-aj/Cybertalents-Challenges-Writeups/blob/master/Certified%20SOC%20Analyst/Challenges/SIEM%20Port%20-%20Introduction%20to%20Logs%20and%20Events/SIEM%20Port%20-%20Writeup.md) | Basic | SIEM, TLS, Syslog |
 | [USB-Case](https://github.com/castiel-aj/Cybertalents-Challenges-Writeups/blob/master/Certified%20SOC%20Analyst/Challenges/USB%20Case%20-%20SIEM%20Use%20Cases/USB%20Case%20-%20Writeup.md) | Easy | Splunk, USB Device |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|     [CVE-Number](./Soc-analyst/CVE-Number/Readme.md)     |    Basic    |                                       EternalBlue, Searchsploit                                       |
-|      [Competition](./Soc-analyst/Competition/Readme.md)      |   Basic    |         CTF, Hacking, Google          |
-|       [Smart-Role](./Soc-analyst/Smart-Role/Readme.md)       |   Basic    |           Soc, CTI, Analyst           |
-|         [WormSeen](./Soc-analyst/WormSeen/README.md)         |   Medium   |    Exe Analysis, Forensic, Python     |
+
 
 ## Certified Threat Hunter
 
@@ -45,15 +39,3 @@
 | [Within Code](https://github.com/castiel-aj/Cybertalents-Challenges-Writeups/blob/master/Certified%20Threat%20Hunter/Challenges/Within%20Code%20-%20IoCs%2C%20YARA%2C%20%26%20Sigma%20Rules/Within%20Code%20-%20Writeup.md) | Medium | Yara & Sigma Rules, IOCs, Strings, Decoding |
 | [Yara Magic](https://github.com/castiel-aj/Cybertalents-Challenges-Writeups/blob/master/Certified%20Threat%20Hunter/Challenges/Yara%20Magic%20-%20IoCs%2C%20YARA%2C%20%26%20Sigma%20Rules/Yara%20Magic%20-%20Writeup.md) | Easy | Yara & Sigma Rules, IOCs, Strings |
 | [Zeek Zag](https://github.com/castiel-aj/Cybertalents-Challenges-Writeups/blob/master/Certified%20Threat%20Hunter/Challenges/Zeek-Zag%20-%20Introduction%20to%20Zeek/Zeek-Zag%20-%20Writeup.md) | Medium | Zeek, Sigma |
-|                                                              |            |                                  |
-|                                                              |            |                                  |
-|                                                              |            |                                  |
-|                                                              |            |                                  |
-|   [Kill Chain](./Threat-hunter)   |   Basic   |                                            Mittre attack                                            |
-|                [Falcon Hunt](./Threat-hunter)                |   Medium   |             hunting,             |
-|                            Enc0de                            |    Easy    |      Arp, network analysis       |
-|                            Ex0dus                            |   Medium   |    Forensic, Wireshark, ICMP     |
-|                           Baseline                           |    Easy    |       Powershell, Hunting        |
-|                  [Process](./Threat-hunter)                  |   Basic    |         Windows, Process         |
-|                [W4nna-Flag](./Threat-hunter)                 |   Medium   |       Forensic, Volatility       |
-|                          Masqur4d3                           |   Medium   |              Memory              |
