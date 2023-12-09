@@ -20,6 +20,11 @@
 | [Remote Hacker](https://github.com/castiel-aj/Cybertalents-Challenges-Writeups/blob/master/Certified%20SOC%20Analyst/Challenges/Remote%20Hacker%20-%20Windows%20Logs/Remote%20Hacker%20-%20Writeup.md) | Medium | Forensic, Logs Analysis, Windows logs |
 | [SIEM Port](https://github.com/castiel-aj/Cybertalents-Challenges-Writeups/blob/master/Certified%20SOC%20Analyst/Challenges/SIEM%20Port%20-%20Introduction%20to%20Logs%20and%20Events/SIEM%20Port%20-%20Writeup.md) | Basic | SIEM, TLS, Syslog |
 | [USB-Case](https://github.com/castiel-aj/Cybertalents-Challenges-Writeups/blob/master/Certified%20SOC%20Analyst/Challenges/USB%20Case%20-%20SIEM%20Use%20Cases/USB%20Case%20-%20Writeup.md) | Easy | Splunk, USB Device |
+|     [CVE-Number](https://github.com/castiel-aj/Cybertalents-Challenges-Writeups/blob/master/Certified%20SOC%20Analyst/Challenges/CVE%20Number/CVE%20Number.md)     |    Basic    |                                       EternalBlue, CVE                                       |
+|      [Competition](https://github.com/castiel-aj/Cybertalents-Challenges-Writeups/blob/master/Certified%20SOC%20Analyst/Challenges/Compitition/Compitition.md)      |   Basic    |         CTF, Google          |
+|       [Smart-Role](https://github.com/castiel-aj/Cybertalents-Challenges-Writeups/blob/master/Certified%20SOC%20Analyst/Challenges/Smart%20Role/Smart%20Role.md)       |   Basic    |           CTI, Analyst, Intelligence           |
+|         [WormSeen](https://github.com/castiel-aj/Cybertalents-Challenges-Writeups/blob/master/Certified%20SOC%20Analyst/Challenges/WormSeen%20-%20Endpoint%20Security/Worm%20Seen.md)         |   Medium   |    Exe Analysis, Basic Analysis, Forensic, Python, Decompyle++    |
+
 
 
 ## Certified Threat Hunter
@@ -39,3 +44,34 @@
 | [Within Code](https://github.com/castiel-aj/Cybertalents-Challenges-Writeups/blob/master/Certified%20Threat%20Hunter/Challenges/Within%20Code%20-%20IoCs%2C%20YARA%2C%20%26%20Sigma%20Rules/Within%20Code%20-%20Writeup.md) | Medium | Yara & Sigma Rules, IOCs, Strings, Decoding |
 | [Yara Magic](https://github.com/castiel-aj/Cybertalents-Challenges-Writeups/blob/master/Certified%20Threat%20Hunter/Challenges/Yara%20Magic%20-%20IoCs%2C%20YARA%2C%20%26%20Sigma%20Rules/Yara%20Magic%20-%20Writeup.md) | Easy | Yara & Sigma Rules, IOCs, Strings |
 | [Zeek Zag](https://github.com/castiel-aj/Cybertalents-Challenges-Writeups/blob/master/Certified%20Threat%20Hunter/Challenges/Zeek-Zag%20-%20Introduction%20to%20Zeek/Zeek-Zag%20-%20Writeup.md) | Medium | Zeek, Sigma |
+|                                                              |            |                                  |
+|                                                              |            |                                  |
+|                                                              |            |                                  |
+|                                                              |            |                                  |
+|   [Kill Chain](./Threat-hunter)   |   Basic   |                                            Mittre attack                                            |
+|                [Falcon Hunt](./Threat-hunter)                |   Medium   |             hunting,             |
+|                            Enc0de                            |    Easy    |      Arp, network analysis       |
+|                            Ex0dus                            |   Medium   |    Forensic, Wireshark, ICMP     |
+|                           Baseline                           |    Easy    |       Powershell, Hunting        |
+|                  [Process](./Threat-hunter)                  |   Basic    |         Windows, Process         |
+|                [W4nna-Flag](./Threat-hunter)                 |   Medium   |       Forensic, Volatility       |
+|                          Masqur4d3                           |   Medium   |              Memory              |
+
+
+
+## OSINT
+
+|                          Challenges                          | Difficulty |         Tags          |
+| :----------------------------------------------------------: | :--------: | :-------------------: |
+| [Series](https://github.com/castiel-aj/Cybertalents-Challenges-Writeups/blob/master/OSINT/Challenges/Series/Series%20-%20Writeup.md) |    Hard    |     OSINT, IMGINT     |
+| [Airport](https://github.com/castiel-aj/Cybertalents-Challenges-Writeups/blob/master/OSINT/Challenges/Airport/Airport%20-%20Writeup.md) |    Easy    | OSINT, IMINT, Epieos, |
+| [Invincible](https://github.com/castiel-aj/Cybertalents-Challenges-Writeups/blob/master/OSINT/Challenges/Invincible/Invincible%20-%20Writeup.md) |   Medium   | OSINT, Waybackmachine |
+| [Missing Person](https://github.com/castiel-aj/Cybertalents-Challenges-Writeups/blob/master/OSINT/Challenges/Missing%20Person/Missing%20Person%20-%20Writeup.md) |    Easy    | OSINT, Twitter, Bitly |
+
+
+
+## Network Security
+
+|                          Challenges                          | Difficulty |                Tags                 |
+| :----------------------------------------------------------: | :--------: | :---------------------------------: |
+| [Arp Storm](https://github.com/castiel-aj/Cybertalents-Challenges-Writeups/blob/master/Network%20Security/Challenges/ARP%20Storm/Arp%20Storm%20-%20Writeup.md) |    Easy    | Network Analysis, Wireshark, Tshark |
